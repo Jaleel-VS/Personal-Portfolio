@@ -9,6 +9,8 @@ body {
     text-align: center;
     max-width: max-content;
     margin: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
     background-color: whitesmoke;
 }
 
